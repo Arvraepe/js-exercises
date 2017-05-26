@@ -1,0 +1,23 @@
+{
+  "name": "js-exercises",
+  "version": "1.0.0",
+  "description": "Small exercises for learning JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arvraepe/js-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arvraepe/js-exercises/issues"
+  },
+  "homepage": "https://github.com/Arvraepe/js-exercises#readme",
+  "dependencies": {
+    "node-fetch": "^1.7.0",
+    "ramda": "^0.23.0"
+  }
+}
