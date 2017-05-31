@@ -16,4 +16,6 @@
     - calculate modified score for each game for each team (even out the differences)
     - calculate sum of all scores for a real score leader board
 
+    Datastructure score: { "team":1, "score":23, "game":2 }
+
  */
