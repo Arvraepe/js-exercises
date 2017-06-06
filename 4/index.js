@@ -14,5 +14,5 @@ const fetch = require('node-fetch');
 
 
 /**
- * B. Print out all the films in which a character stars. (/movie/id)
- */
+ * B. Print out the name of all the films in which a character stars. (/movie/id)
+ *e
