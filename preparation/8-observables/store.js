@@ -1,7 +1,5 @@
 class Store {
 
-
-
   constructor (state) {
 
   }
